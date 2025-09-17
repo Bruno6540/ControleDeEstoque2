@@ -22,3 +22,4 @@ Este projeto é uma evolução da minha primeira versão de um sistema de contro
 - **ArrayList**: armazenamento dinâmico de produtos e histórico.
 - **Scanner**: interação com o usuário via terminal.
 - Estruturas de controle **switch-case** e **loops do-while** para navegação do menu.
+
