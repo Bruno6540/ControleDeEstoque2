@@ -1,43 +1,27 @@
-# Controle de Estoque em Java – Versão Final
+# Controle de Estoque em Java - Versão Avançada 
 
-Este projeto é a versão final (3/3) do sistema de controle de estoque em Java. Ele representa a consolidação dos conceitos estudados ao longo da série, trazendo maior robustez, organização e uso avançado de programação orientada a objetos (POO).
+Este projeto é uma evolução da minha primeira versão de um sistema de controle de estoque em Java. Ele demonstra minha evolução na programação orientada a objetos (POO) e no desenvolvimento de aplicações interativas, sendo ideal para estudo e portfólio pessoal. 
 
----
+--- 
 
-## Sistema de Controle de Estoque em Java – Versão Final (3/3)
+# Sistema de Controle de Estoque em Java - Versão Avançada (2/3)
 
-Este projeto corresponde à terceira e última parte (3/3) da série em desenvolvimento, concluindo a evolução dos meus estudos em Java. Nesta etapa, o sistema foi aprimorado com **herança, polimorfismo e categorização de produtos**, tornando-se mais completo e realista.
+Este projeto corresponde à segunda parte (2/3) da série em desenvolvimento, dando continuidade à evolução dos meus estudos. Em breve publicarei a terceira e última etapa.
 
----
+## 🔹 Funcionalidades Principais 
 
-## 🔹 Funcionalidades Principais
+- **Dashboard detalhado do estoque** com cálculo do valor total. 
+- **Adição de produtos**, incluindo atualização automática de quantidades.
+- **Remoção de unidades** de produtos existentes.
+- **Exclusão de produtos** do estoque.
+- **Histórico de movimentações** para acompanhamento de todas as alterações.
+- **Menu interativo** via terminal para facilitar a operação.
 
-- **Cadastro de produtos** com duas categorias distintas:  
-  - Perecíveis (com data de validade).  
-  - Eletrônicos (com marca).  
-- **Listagem organizada**: perecíveis exibidos primeiro, eletrônicos depois, ambos em ordem alfabética.  
-- **Separador automático** entre as categorias de produtos.  
-- **Cálculo do valor total do estoque** em tempo real.  
-- **Adição de novos produtos** ou incremento de quantidade caso já existam.  
-- **Remoção parcial** de unidades do estoque.  
-- **Exclusão completa** de produtos.  
-- **Histórico de movimentações** registrando todas as alterações feitas.  
-- **Menu interativo via terminal** com navegação simples e intuitiva.  
+--- 
 
----
-
-## 🛠 Tecnologias e Ferramentas Utilizadas
-
-- **Java**: linguagem principal do projeto.  
-- **POO (Programação Orientada a Objetos)**:  
-  - Encapsulamento, construtores e métodos.  
-  - Herança (`Produto` → `Perecivel` / `Eletronico`).  
-  - Polimorfismo com sobrescrita de métodos (`toString`).  
-- **ArrayList**: gerenciamento dinâmico de estoque e histórico.  
-- **Comparator**: ordenação personalizada dos produtos.  
-- **Scanner**: interação do usuário com o console.  
-- Estruturas de controle: **loops do-while** e **switch-case**.  
-
----
-
-👉 Com esta versão, concluo a trilogia do **Sistema de Controle de Estoque em Java**, consolidando conceitos fundamentais e criando uma aplicação de console completa, ideal para estudo e portfólio.
+## 🛠 Tecnologias e Ferramentas Utilizadas 
+- **Java**: linguagem de programação principal.
+- **POO (Programação Orientada a Objetos)**: classes, métodos, encapsulamento e construtores.
+- **ArrayList**: armazenamento dinâmico de produtos e histórico.
+- **Scanner**: interação com o usuário via terminal.
+- Estruturas de controle **switch-case** e **loops do-while** para navegação do menu.
