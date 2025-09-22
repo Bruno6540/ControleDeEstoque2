@@ -4,6 +4,10 @@ Este projeto é uma evolução da minha primeira versão de um sistema de contro
 
 ---
 
+## Sistema de Controle de Estoque em Java - Versão Avançada (2/3)
+
+Este projeto corresponde à segunda parte (2/3) da série em desenvolvimento, dando continuidade à evolução dos meus estudos. Em breve publicarei a terceira e última etapa.
+
 ## 🔹 Funcionalidades Principais
 
 - **Dashboard detalhado do estoque** com cálculo do valor total.
